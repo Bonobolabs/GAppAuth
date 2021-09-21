@@ -18,6 +18,6 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '9.0'
   s.ios.source_files = 'Sources/iOS/GAppAuth.swift'
 
-  s.dependency 'GTMAppAuth', '1.1.0'
+  s.dependency 'GTMAppAuth', '1.2.2'
   s.dependency 'AppAuth', '1.4.0'
 end
